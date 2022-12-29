@@ -1,4 +1,9 @@
 # weather-app
+this is weather app that shows the weather condition of your search 
+the weather is gotten frm openweather API and mapbox for the gecoding of addresses
+
+I used tailwindCSS for the styling 
+Vuetify for the icons 
 
 This template should help get you started developing with Vue 3 in Vite.
 
